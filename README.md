@@ -1,6 +1,6 @@
 # EmployeeWebApp
 
-EmployeeWebApp is a full-stack web application that leverages a variety of powerful technologies. Built using the Spring Framework, Thymeleaf, and Hibernate, it provides users with an intuitive interface for managing employee records within a company. With the ability to perform a wide range of CRUD operations on employee data, it offers a comprehensive solution for companies of all sizes.
+EmployeeWebApp is a comprehensive, full-stack web application that enables users to manage employee records within a company. The application utilizes the powerful Spring Framework, Thymeleaf, and Hibernate to provide an intuitive and user-friendly interface. With a variety of features that include creating, reading, updating, and deleting employee data, the app caters to businesses of all sizes. The app also includes REST APIs that allow users to perform various CRUD operations using endpoints that require API keys. Moreover, the app is equipped with Spring Security that restricts user access based on roles, allowing only admins to perform all requests, basic users to perform read requests, and update users to create, read, and update requests but not delete.
 
 ## Features
 
@@ -66,11 +66,11 @@ EmployeeWebApp is a full-stack web application that leverages a variety of power
 
 ## Contributing
 
-Contributions to JPAProjectFinal are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions to EmployeeWebApp are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
 
-JPAProjectFinal is released under the MIT License. See `LICENSE` for details.
+EmployeeWebApp is released under the MIT License. See `LICENSE` for details.
 
 
 
