@@ -44,6 +44,10 @@ EmployeeWebApp is a comprehensive, full-stack web application that enables users
 5. Click the "Delete" button on an employee's details page to delete them from the database
 6. To manage employee salaries, job titles, or departments, navigate to the corresponding pages and use the available features.
 
+## Testing
+
+The application includes a suite of tests to ensure that it functions correctly. Here are the results of these tests:
+
 <details>
 <summary>Click to view testing results snapshots</summary>
 
@@ -67,6 +71,16 @@ EmployeeWebApp is a comprehensive, full-stack web application that enables users
 ## Contributing
 
 Contributions to EmployeeWebApp are welcome! Please fork the repository and submit a pull request with your changes.
+
+## Credits
+
+The development of EmployeeWebApp was made possible by the following contributors:
+
+- AliG-123
+- sp01186
+- f-abdul91
+- Martin2504
+- hmalik123
 
 ## License
 
