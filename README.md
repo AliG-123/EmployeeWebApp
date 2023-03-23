@@ -1,6 +1,6 @@
 # EmployeeWebApp
 
-EmployeeWebApp is a web application that allows users to manage employees in a company. It uses the Spring Framework and Thymeleaf for server-side rendering, and Hibernate for object-relational mapping. It allows you to create, read, update, and delete employee records in a database.
+EmployeeWebApp is a full-stack web application that leverages a variety of powerful technologies. Built using the Spring Framework, Thymeleaf, and Hibernate, it provides users with an intuitive interface for managing employee records within a company. With the ability to perform a wide range of CRUD operations on employee data, it offers a comprehensive solution for companies of all sizes.
 
 ## Features
 
