@@ -72,7 +72,5 @@ Contributions to JPAProjectFinal are welcome! Please fork the repository and sub
 
 JPAProjectFinal is released under the MIT License. See `LICENSE` for details.
 
-I hope this helps!
-
 
 
